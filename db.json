@@ -1,0 +1,154 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 2
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 3
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 4
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 5
+    },
+    {
+      "title": "Alam",
+      "author": "my name is Alam",
+      "id": 6
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 7
+    },
+    {
+      "title": "Alam",
+      "author": "my name is Alam",
+      "id": 8
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 9
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 10
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 11
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 12
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 13
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 14
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 15
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 16
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 17
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 18
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 19
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 20
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 21
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 22
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 23
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 24
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 25
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 26
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 27
+    },
+    {
+      "title": "jahangir",
+      "author": "my name is jahangir",
+      "id": 28
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
